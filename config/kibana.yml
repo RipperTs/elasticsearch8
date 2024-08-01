@@ -4,6 +4,4 @@ server.port: 5601
 server.ssl.enabled: false
 xpack.monitoring.ui.container.elasticsearch.enabled: true
 elasticsearch.ssl.verificationMode: none
-elasticsearch.username: "elastic"
-elasticsearch.password: "123456"
 i18n.locale: zh-CN
